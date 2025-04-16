@@ -35,9 +35,9 @@
 ---
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/) – Let’s connect & grow together  
-- [Twitter](https://twitter.com/) – Sharing thoughts & insights  
-- Email: `youremail@example.com` *(replace with yours)*
+- [LinkedIn](https://www.linkedin.com/in/vishal-bagul) – Let’s connect & grow together  
+- [Twitter](https://twitter.com/) – Sharing thoughts & insights  soon!!
+- Email: `vishalbagul@proton.me`
 
 ---
 
