@@ -36,7 +36,7 @@
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vishal-bagul) – Let’s connect & grow together  
-- [Twitter](https://twitter.com/) – Sharing thoughts & insights  soon!!
+- [ X](https://x.com/VishalBagul2k5) – Sharing thoughts & insights  soon!!
 - Email: `vishalbagul@proton.me`
 
 ---
