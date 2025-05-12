@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Vishal! 🚀</h1>
-<h3 align="center">Engineering student | ISRO & GATE Aspirant | Code. Learn. Build.</h3>
+<h1 align="center">Hi, I'm Vishal Bagul! 🚀</h1>
+<h3 align="center">Engineering student | Code. Learn. Build.</h3>
 
 ---
 
