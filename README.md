@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Vishal! 🚀</h1>
-<h3 align="center">Engineering student | Future Computer Engineer | ISRO & GATE Aspirant | Code. Learn. Build.</h3>
+<h3 align="center">Engineering student | ISRO & GATE Aspirant | Code. Learn. Build.</h3>
 
 ---
 
-### 🧠 About Me
-- I'm currently pursuing **Engineering** with plans to switch to **Computer Engineering**.
-- Preparing for **GATE & ISRO** to become one of India's top engineers.
+### 🧠 About Me.
+- Preparing for **GATE & ISRO**.
 - Self-learning **DSA**, **Web Development**, and core **CS subjects**.
 - Building strong **discipline, consistency**, and a mindset of **growth & contribution**.
 
@@ -14,7 +13,6 @@
 ### ⚡ Current Focus
 - Strengthening problem-solving with **C/Python**.
 - Exploring **HTML, CSS, JavaScript** for web dev projects.
-- Studying **Engineering Maths**, **Mechanics**, and **Electronics** (SPPU syllabus).
 - Planning to launch small but meaningful projects.
 
 ---
@@ -23,25 +21,12 @@
 - **Languages:** C, Python, HTML, CSS, JavaScript  
 - **Tools:** VS Code, Git, GitHub  
 - **Learning:** DSA, Git, Frontend Web Dev, Productivity Hacks
-
 ---
-
-### 📈 My Goals
-- Crack GATE and make it to **ISRO or top PSUs**.
-- Build a powerful **GitHub + LinkedIn presence**.
-- Earn my first income from **skills & side projects**.
-- Help other students with resources, notes, and projects.
-
----
-
 ### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vishal-bagul) – Let’s connect & grow together  
-- [ X](https://x.com/VishalBagul2k5) – Sharing thoughts & insights  soon!!
+- [LinkedIn](https://www.linkedin.com/in/vishal-bagul)  
+- [ instagram ](https://www.instagram.com/vishalbagul.in/)
 - Email: `vishalbagul@proton.me`
 
 ---
-
-### ✨ Fun Fact
-I'm on a mission to be **mentally, physically, and skillfully unbreakable**.
 
 
